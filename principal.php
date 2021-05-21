@@ -391,10 +391,6 @@ text-decoration: none;
     border-radius: 5px;
 }
 
-
-
-    
-
 </style>
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
 

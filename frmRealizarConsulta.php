@@ -69,7 +69,7 @@ font-family: 'Montserrat';
         height: 450px;
         border: 2px solid #000;
         margin-top: 4em;
-        margin-left: 27em;
+        margin-left: 39em;
         margin-bottom: 10em;
         font-family: 'Montserrat';
         padding: 35px 1px 0px 35px;
