@@ -14,4 +14,16 @@
     else{
         echo "Usuário não cadastrado.";
     }
+
+   /* if($txt_email = $_POST['txt_email']) {
+        if ($txt_email == "") {
+            $mensagem = "<span><b>Aviso</b>: Email não pode ficar vazio</span>";
+        } 
+        if ($txt_email != '') {
+            $mensagem = "<span><b>Sucesso</b>:Sucesso!! </span>";
+       }   
+    }*/
+
+
+
 ?>
