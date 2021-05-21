@@ -6,7 +6,6 @@
  $txt_senhaCad = $_POST["txt_senhaCad"];
 
 
-
  if(isset($_POST["txt_nomeCad"])){
     $cmd = $db->prepare('INSERT INTO usuarios(nome,email,senha) VALUES(:txt_nomeCad,:txt_emailCad, md5(:txt_senhaCad))');
     $cmd->execute(array(
@@ -17,7 +16,6 @@
 } 
  else{
     echo "Não foi possivel cadastrar.";
-   // print "<script type='text/javascript'>location.href='principal.php?link=1'</script>";
  }
 
 

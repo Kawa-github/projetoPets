@@ -13,16 +13,5 @@
     }
     else{
         echo "Usuário não cadastrado.";
-
-
-         // print "<META HTTP-EQUIV=REFRESH CONTENT = '0;URL=index.php'> 
-        // <script type='text/javascript'>window.alert('Login ou senha não encontrado, tente novamente.')</script> ";   
     }
-
-    /*if(!$txt_email || !$txt_senha)
-{
-	echo "Você deve digitar seu email e senha!";
-	exit;
-}*/
-
 ?>
