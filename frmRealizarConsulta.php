@@ -118,7 +118,7 @@ height: 25px;
 <nav>
     <ul>
            <li><a href="principal.php">Home</a></li>
-           <li><a href="">Consulta</a></li>
+           <li><a href="#consulta">Consulta</a></li>
            <li><a style="margin: 0 0 0 0;" href="#atendimento">Atendimento</a></li>
     </ul>
 </nav>

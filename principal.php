@@ -483,14 +483,14 @@ text-decoration: none;
             com profissionais qualificados, e sempre prezando o seu
             bem-estar.</p></div>
        </section>
-       <section class="imgConsulta">
+       <section class="imgConsulta" id="consulta">
             <figure>
                 <picture>
                     <img src="img/img_consulta.png" alt="" width="980" height="380">
                 </picture>
             </figure>
        </section>
-       <section class="secConsulta" id="consulta">
+       <section class="secConsulta">
         <ul>
             <h1><li><a href="frmRealizarConsulta.php"> Marque uma consulta para seu pet.</a></li></h1>
         </ul>
