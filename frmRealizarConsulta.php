@@ -66,7 +66,7 @@ font-family: 'Montserrat';
         background-color: #fff;
         color: #000;
         width: 500px;
-        height: 450px;
+        height: 295px;
         border: 2px solid #000;
         margin-top: 4em;
         margin-left: 39em;
@@ -81,6 +81,11 @@ font-family: 'Montserrat';
     padding-left: 5px;
     width: 180px;
     height: 25px;
+    margin-right: 15px;
+}
+
+.formConsulta select{
+    margin-right: 9px;
 }
 .formConsulta p{
     margin-bottom: 1em;
