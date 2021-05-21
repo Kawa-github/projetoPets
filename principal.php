@@ -172,7 +172,7 @@ font-family: 'Montserrat';
 .areaAtendimento{
     float:left;
     padding-top: 3em;
-    margin-left: 12em;
+    margin-left: 24.7em;
 }
 .areaTexto_atendimento h1{
     float:left;
@@ -204,7 +204,7 @@ font-family: 'Montserrat';
 .areaQuemsomos h1{
     padding-right: 4em;
     padding-bottom: 2em;
-    margin-top: 10em;
+    margin-top: 15em;
     margin-left: 35em;
     font-family: 'Montserrat';
     font-size: 20px;
@@ -447,29 +447,7 @@ text-decoration: none;
                 <input type="submit" name="" value="CRIAR CONTA" id="btn-cadastrar">
             </form>
      </section>
-     
-     
-     <!--a href="#abrirModal">Open Modal</a-->
 
-
-    <!--div id="abrirModal" class="modal"-->
-  <!--a href="#fechar" title="Fechar" class="fechar">x</a>
-  <h2>Entre na sua conta</h2>
-  <form id="frmLogin" name="frmLogin" action="" method="post">
-                <p>Email:</p>
-                <input type="email"  name="" placeholder="Insira seu email">
-                <p>Senha:</p> 
-                <input type ="password" name="" placeholder="Insira sua senha">
-                <input type="submit" name="" value="Login">
-                <a href="#">Ainda não possui uma conta?</a>      
-            </form>
-</div-->
-        <!--section class="login">
-           <h3><a href="#">LOGIN</a></h3>
-        </section>
-        <section class="logoWeb">
-            <img src="img/logo_web.png" alt="" width="450" height="300">
-        </section-->
         <section class="imgWelcome">    
             <picture>   
                 <figure> 
@@ -502,7 +480,7 @@ text-decoration: none;
         <div name="atendimento">Entre em contato conosco.</div>
     </section>
     <section>
-           <div class="areaAtendimento" id="atendimento">
+           <div class="areaAtendimento" >
              <img src="img/telefone.png" alt="" width="64" height="64">
             </div>
             <div class="areaTexto_atendimento">
@@ -511,7 +489,7 @@ text-decoration: none;
             <div class="areaEmail">
               <img src="img/message.png" alt="" width="64" height="64">
             </div>
-            <div class="areaTexto_email">
+            <div class="areaTexto_email" id="atendimento">
                  <h1>clinicapets@gmail.com</h1>
             </div>
     </section>
